@@ -1,0 +1,1 @@
+A simple Rock-paper-scissors Game built with HTML, CSS, and vanilla JavaScript without any libraries or frameworks. Open the 12-rock-paper-scissors.html file with Google Chrome to play the game. Asynchronous programming is applied to enable auto-play of the game.
